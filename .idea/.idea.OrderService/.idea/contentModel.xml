@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\oduse\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\oduse\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_OrderService.-82132821.00" t="ExcludeRecursive" />
+    <e p="C:\Users\oduse\RiderProjects\OrderService" t="IncludeFlat">
+      <e p="OrderService" t="IncludeRecursive">
+        <e p="AmazonServices" t="Include">
+          <e p="ICustomerOrder.cs" t="Include" />
+          <e p="PlaceOrder.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MerchantStore" t="Include">
+          <e p="Config.cs" t="Include" />
+          <e p="Customer.cs" t="Include" />
+          <e p="EmailNotifier.cs" t="Include" />
+          <e p="INotifier.cs" t="Include" />
+          <e p="RealEmailSender.cs" t="Include" />
+          <e p="SmsNotifier.cs" t="Include" />
+          <e p="StoreOrders.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="OrderService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderService.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="OrderService.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
